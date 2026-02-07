@@ -1,6 +1,0 @@
-python-telegram-bot==20.5
-pandas==2.1.1
-numpy==1.26.4
-matplotlib==3.8.0
-ta==0.10.2
-yfinance==0.2.27
